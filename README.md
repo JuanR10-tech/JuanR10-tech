@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan J.
+# 👋 Hola, soy Juan R.
 
 🔹 Administrador de redes con experiencia en Cisco (VLANs, ACLs, OSPF)  
 🔹 Interesado en Ciberseguridad (SOC, SIEM, análisis de incidentes)  
